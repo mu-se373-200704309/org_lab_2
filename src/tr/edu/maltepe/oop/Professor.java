@@ -3,7 +3,6 @@ public class Professor extends Person {
 
     Professor(String name) {
         setName(name);
-
     }
 
     void teaches (){
